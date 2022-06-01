@@ -1,0 +1,6 @@
+Info
+
+1) XXX
+2) y.o
+3) pets
+4) salary
