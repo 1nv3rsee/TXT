@@ -1,0 +1,6 @@
+Skills
+
+1) Postman
+2) Git
+3) SQL
+4) Bug report

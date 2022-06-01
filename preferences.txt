@@ -1,0 +1,7 @@
+Preferences
+
+1) Fav. Film
+2) Fav. TV Series
+3) Fav. Food
+4) Fav. Seasons time
+5) Country to visit
