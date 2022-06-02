@@ -4,7 +4,3 @@ Info
 2) y.o
 3) pets
 4) salary
-
-
-
-23123
